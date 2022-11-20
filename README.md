@@ -16,8 +16,6 @@ Aysha Ait Ouaddi/Oriol González Dalmau
 
 * ```requirements.txt```: Documento que contiene las librerias utilizadas por el código *Código scraping hoteles eDreams .py*. El archivo se obtiene accediendo a la carpeta que contiene el código y ejecutando en la terminal del comando ```D:\43591894v\Documents\Tipologia> pipreqs```. En caso de que la ejecución sea correcta se obtiene el siguiente mensaje: ```INFO: Successfully saved requirements file in `D:\43591894v\Documents\Tipologia\requirements.txt```.
 
-* ```memoria_eDreams.pdf```: Documento que contiene la resolución del proyecto. 
-
 ## Enlace DOI del dataset
 Puede consultarse el dataset generado mediante el siguiente enlace DOI: https://doi.org/10.5281/zenodo.7295560
 
