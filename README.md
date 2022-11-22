@@ -10,7 +10,7 @@ Aysha Ait Ouaddi/Oriol González Dalmau
 
 * ```source```: Carpeta que contiene el codigo Python *Código scraping hoteles eDreams .py* que realiza la tarea de scraping y genera el dataset *Hotels_dataset.csv*.
 
-* ```memoria```: Archivo pdf que contiene la documentación escrita del proyecto
+* ```Memoria```: Archivo pdf que contiene la documentación escrita del proyecto
 
 * ```Video ejecución del código.mp4```: Video en que se muestra la ejecución del código y la búsqueda realizada por el Driver de Chrome.
 
